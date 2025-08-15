@@ -1,6 +1,6 @@
 # Hi, I'm Sergio! 👋
 
-I am a passionate Backend Developer and Math student at UnADM, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and systems integration.
+I am a passionate AI Software Developer and Math student at UnADM, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and systems integration.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=anaconda,arch,atom,aws,bash,bitbucket,bootstrap,c,cpp,css,discord,docker,express,fastapi,figma,firebase,flask,gcp,git,github,githubactions,gmail,graphql,heroku,html,js,jenkins,jest,latex,linkedin,linux,md,matlab,mongodb,mysql,nestjs,nodejs,notion,npm,obsidian,octave,postgres,postman,powershell,prisma,pug,qt,r,react,redux,sass,sqlite,styledcomponents,sublime,sklearn,sequelize,svg,tailwind,tensorflow,ts,ubuntu,vercel,vim,vite,vscode,vscodium,webpack,windows,yarn,)](https://sergio99778-r-alpha.vercel.app/)
